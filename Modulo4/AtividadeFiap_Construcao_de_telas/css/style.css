@@ -1,0 +1,47 @@
+#telaDeLogin{
+    width: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    background-color: rgb(44, 138, 80);
+} 
+#formContact{
+    width: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#form{
+    box-shadow: 1px 5px 30px rgb(228, 228, 228);
+    border-radius: 15px;
+}
+#imgLogin{
+    width: 80px;
+    margin-top: 35px;
+}
+#tituloHealthTrack{
+    margin-top: 12px;
+    margin-bottom: 35px;
+}
+#background{
+    /* background-color: #F6FFF9; */
+    background-image: url(../img/background.jpg);
+}
+#btnConectar{
+    margin-top: 30px;
+}
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#card{
+    border-radius: 4%;
+    box-shadow: 1px 5px 30px rgb(255, 255, 255);
+}
+#back{
+    background-color: rgb(113, 184, 137);
+}
